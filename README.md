@@ -60,28 +60,19 @@ pip install pandas seaborn matplotlib
 | Unit_Price           | Price per item                      |
 | Total_Sales          | Calculated as Quantity × Unit Price |
 
-
-## 📈 Visualizations
+## 📊 Visualizations
 
 ### 🏬 Total Sales per Branch
+Compares total sales across different supermarket branches.  
+![Branch Sales](./total_sales_branch.png)
 
-Compares total sales across different supermarket branches.
-![Branch Sales](total_sales_branch.png)
-
-### 🛍️ Average Sales by Product Category
-
-Shows which product categories generate the most revenue.
-![Category Sales](sales_by_category.png)
+### 📦 Average Sales by Product Category
+Shows which product categories generate the most revenue.  
+![Category Sales](./sales_by_category.png)
 
 ### 👥 Sales by Customer Type
-
-Compares how Members and Normal customers differ in spending.
-![Customer Type Sales](sales_by_customer_type.png)
-
-### 🔥 Correlation Heatmap
-
-Reveals relationships between Quantity, Unit Price, and Total Sales.
-![Correlation Matrix](correlation_matrix.png)
+Compares how Members and Normal customers differ in spending.  
+![Customer Type Sales](./sales_by_customer_type.png)
 
 
 ## 🚀 How to Run the Project
