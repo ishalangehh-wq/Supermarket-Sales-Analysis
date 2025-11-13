@@ -1,7 +1,7 @@
 # 🏪 Supermarket Branch Sales Analysis using Python (Pandas, Seaborn & Matplotlib)
 
-This project performs a **branch-wise sales analysis** for a supermarket using Python.  
-It explores how **product category, customer type, and branch location** affect total sales — visualized using clear and insightful charts.
+This project performs a branch-wise sales analysis for a supermarket using Python.  
+It explores how product category, customer type, and branch location affect total sales — visualized using clear and insightful charts.
 
 
 
@@ -116,5 +116,6 @@ Aspiring Data Analyst | Python | Pandas | Seaborn | Matplotlib*
 
 
 
-It makes your repo look more professional visually.
-```
+
+
+      
