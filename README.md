@@ -66,22 +66,22 @@ pip install pandas seaborn matplotlib
 ### 🏬 Total Sales per Branch
 
 Compares total sales across different supermarket branches.
-![Branch Sales](total_sales_branch.png)
+![Branch Sales](images/total_sales_branch.png)
 
 ### 🛍️ Average Sales by Product Category
 
 Shows which product categories generate the most revenue.
-![Category Sales](sales_by_category.png)
+![Category Sales]images/(sales_by_category.png)
 
 ### 👥 Sales by Customer Type
 
 Compares how Members and Normal customers differ in spending.
-![Customer Type Sales](sales_by_customer_type.png)
+![Customer Type Sales](images/sales_by_customer_type.png)
 
 ### 🔥 Correlation Heatmap
 
 Reveals relationships between Quantity, Unit Price, and Total Sales.
-![Correlation Matrix](correlation_matrix.png)
+![Correlation Matrix](images/correlation_matrix.png)
 
 
 ## 🚀 How to Run the Project
