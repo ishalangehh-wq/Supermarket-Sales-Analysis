@@ -82,6 +82,11 @@ Compares how Members and Normal customers differ in spending.
 
 Reveals relationships between Quantity, Unit Price, and Total Sales.
 ![Correlation Matrix](images/correlation_matrix.png)
+![Branch Sales](./total_sales_branch.png)
+![Category Sales](./sales_by_category.png)
+![Customer Type Sales](./sales_by_customer_type.png)
+![Correlation Matrix](./correlation_matrix.png)
+
 
 
 ## 🚀 How to Run the Project
